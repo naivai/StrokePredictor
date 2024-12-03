@@ -1,0 +1,13 @@
+Package: StrokePrediction
+Title: Predict Stroke Risk Based on Patient Data
+Version: 0.0.0.9000
+Authors@R: "Naomi Vaid <naomivaid@usf.edu> [aut, cre]"
+Description: This package provides functions for analyzing patient data to predict the likelihood of a stroke. It uses patient demographic data, medical history, and lifestyle information to build a predictive model. The package includes data preprocessing, feature engineering, and a trained machine learning model for stroke prediction.
+Depends: R (>= 3.1.2)
+Imports:
+    dplyr,
+    tidyr,
+    caret,
+    randomForest
+License: CC0
+LazyData: true
