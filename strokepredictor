@@ -1,0 +1,16 @@
+#' HealthStroke Package
+
+#' @name healthstroke-package
+#' @alias healthstroke
+#' @docType package
+#' @title Stroke Risk Prediction
+#' @description This package provides tools for predicting stroke risk based on health data like age, gender, and other factors.
+
+#' @details
+#' The healthstroke package includes functions for data analysis and prediction of stroke risk. It takes into account variables like age, hypertension, heart disease, etc., to calculate the likelihood of a stroke.
+#'
+#' @author Naomi Vaid
+#' Maintainer: Naomi Vaid <naomivaide@usf.edu>
+#'
+#' @references
+#' -The Art of R programming: a tour of statistical software design by Norman Matloff
